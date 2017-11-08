@@ -501,11 +501,6 @@ int main(int argc, char ** argv)
 	char delim = ' ';
 
 
-	string str = "";
-	str = "mike";
-
-
-
 	ParseParams(argc, argv, type, w, max_ratio, input_file, output_file);
 
 
